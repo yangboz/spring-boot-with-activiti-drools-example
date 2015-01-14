@@ -5,6 +5,10 @@ Watch and learn drools-activiti-integration.
 
 http://www.attuneww.com/ebook/drools-activiti-integration.pdf
 
+# Drools:
+
+@see: https://github.com/yangboz/flaming-wight/blob/master/src/main/resources/diagrams/LoanRequestRules.drl
+
 # BPM Diagram:
 
 ![Screenshot of "BPM Diagram"](https://raw.githubusercontent.com/yangboz/flaming-wight/master/src/main/resources/diagrams/BusinessRuleLoanProcess.png)
