@@ -1,0 +1,9 @@
+package com.Beans
+
+rule "CreditCheckRule"
+when
+$la:LoanApplicant(income > (2 * loanAmount))
+then
+$la.setCheckCreditOk(true);
+System.out.println(" You are eligible loan Approved "+ $la.getName());
+end
