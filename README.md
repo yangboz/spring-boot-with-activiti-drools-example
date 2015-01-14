@@ -1,7 +1,9 @@
 # flaming-wight
 Watch and learn drools-activiti-integration.
 
-# Tutorial: http://www.attuneww.com/ebook/drools-activiti-integration.pdf
+# Tutorial: 
+
+http://www.attuneww.com/ebook/drools-activiti-integration.pdf
 
 # BPM Diagram:
 
@@ -9,4 +11,6 @@ Watch and learn drools-activiti-integration.
 
 # Modifications:
 
-## Without "BAR" style deployment, using "addClasspathResource" style. @see: https://github.com/yangboz/flaming-wight/blob/master/src/test/java/org/activiti/designer/test/ProcessTestMyProcess.java
+1.Without "BAR" style deployment, using "addClasspathResource" style. 
+
+@see: https://github.com/yangboz/flaming-wight/blob/master/src/test/java/org/activiti/designer/test/ProcessTestMyProcess.java
