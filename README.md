@@ -18,3 +18,7 @@ http://www.attuneww.com/ebook/drools-activiti-integration.pdf
 1.Without "BAR" style deployment, using "addClasspathResource" style. 
 
 @see: https://github.com/yangboz/flaming-wight/blob/master/src/test/java/org/activiti/designer/test/ProcessTestMyProcess.java
+
+# TODO:
+
+1.Using SpreadsheetCompiler to support XLS rules input;
