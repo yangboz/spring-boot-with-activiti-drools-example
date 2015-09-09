@@ -1,5 +1,8 @@
-# flaming-wight
-Watch and learn drools-activiti-integration.
+# spring-boot-with-activiti-drools-example
+Spring-boot integration with Activiti,Drools example.
+
+# spring-boot-with-activiti-example
+https://github.com/yangboz/spring-boot-with-activiti-example
 
 # Tutorial: 
 
